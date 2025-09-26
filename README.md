@@ -1,4 +1,4 @@
-# Linear Regression Modellin Project
+# Linear Regression Modelling Project
 Developed a multiple regression model to predict rental prices based off a San Francisco dataset provided by Udemy
 
 ## General Information
