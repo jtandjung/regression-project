@@ -1,9 +1,6 @@
 # Linear Regression Modelling Project
 Developed a multiple regression model to predict rental prices based off a San Francisco dataset provided by Udemy
 
-## General Information
-Linear regression is a cornerstone of data science and I thought that this practical project was good way to practice using regression techniques firsthand.
-
 ## Technologies Used
 - Python
 - Numpy
